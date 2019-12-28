@@ -10,7 +10,7 @@
 	<keywords>google,consent,sdk,admob,ads</keywords>
 	<repo>https://github.com/tobyherrmann/cordova-plugin-google-consent</repo>
 	<issue>https://github.com/tobyherrmann/cordova-plugin-google-consent/issues</issue>
-    <dependency id="cordova-plugin-add-swift-support" version="1.7.2"/>
+    <!--<dependency id="cordova-plugin-add-swift-support" version="1.7.2"/>-->
 	
     <!-- android -->
 	<platform name="android">
