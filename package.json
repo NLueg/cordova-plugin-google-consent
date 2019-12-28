@@ -4,8 +4,7 @@
   "cordova": {
     "id": "cordova-plugin-google-consent",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "description": "ionic wrapper for google consent sdk",

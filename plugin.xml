@@ -34,7 +34,7 @@
 
 
 	<!-- ios -->
-	<platform name="ios">
+	<!--<platform name="ios">
 		<js-module src="www/plugin.js" name="plugin">
 			<runs />
 			<clobbers target="Consent" />
@@ -52,5 +52,5 @@
 		<source-file src="src/ios/Consent-Bridging-Header.h" />
         <framework src="PersonalizedAdConsent" type="podspec" spec="~> 1.0.3" />
         <resource-file src="src/ios/PersonalizedAdConsent.bundle" target="PersonalizedAdConsent.bundle" />
-	</platform>
+	</platform>-->
 </plugin>
