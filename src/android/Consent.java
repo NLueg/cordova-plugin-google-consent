@@ -181,8 +181,8 @@ public class Consent extends CordovaPlugin {
 					cb.error(errorDescription);
 				}
 			})
-			.withPersonalizedAdsOption()
-			.withNonPersonalizedAdsOption();
+			.withPersonalizedAdsOption();
+			//.withNonPersonalizedAdsOption();
 
 		if (showProVersionOption) {
 			builder.withAdFreeOption();
